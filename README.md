@@ -12,7 +12,7 @@ Welcome to the "LLM Experiments with Graph Machine Learning" repository. This pr
 
 To get started with our project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/LLM-Graph-ML.git`
+1. Clone the repository: `git clone https://github.com/1zuu/LLM-Experiments-with-Graph-Machine-Learning.git`
 2. Install the necessary dependencies.
 3. Dive into the codebase and explore our experiments and research.
 
@@ -20,7 +20,7 @@ To get started with our project, follow these steps:
 
 - **Experimentation**: Contribute to our ongoing experiments or design your own.
 - **Research Collaboration**: If you're interested in collaborating on this research, please contact us.
-- **Issue Tracker**: Report any issues, bugs, or suggestions in the [Issues](https://github.com/1zuu/LLM-Graph-ML/issues) section.
+- **Issue Tracker**: Report any issues, bugs, or suggestions in the [Issues](https://github.com/1zuu/LLM-Experiments-with-Graph-Machine-Learning/issues) section.
 
 ## Contributors
 
